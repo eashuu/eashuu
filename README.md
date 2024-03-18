@@ -80,6 +80,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/eashuu/eashuu/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/eashuu/eashuu/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
