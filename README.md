@@ -1,7 +1,8 @@
+<h2>About me</h2>
 <p align="left">Hi 👋! , I'm  Eashwar, a passionate self-taught full-stack developer and a freelance software engineer from INDIA. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</p>
 
 ###
-
+<h2>Stats</h2>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=eashuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eashuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
@@ -9,7 +10,7 @@
 </div>
 
 ###
-
+<h2>Languages and social media</h2>
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
@@ -51,6 +52,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
 </div>
+
 
 ###
 
